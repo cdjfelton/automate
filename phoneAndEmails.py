@@ -16,3 +16,8 @@ phoneRegex = re.compile(r'''( (\d{3}|\(\d{3}\))?
 (\s*(ext|x|ext.)\s*(\d{2,5}))? # extension 
 )''', re.VERBOSE)
 
+# TODO: Create email regex.
+
+# TODO: Find matches in clipboard text.
+
+# TODO: Copy results to the clipboard.
